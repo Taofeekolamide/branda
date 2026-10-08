@@ -484,6 +484,41 @@ The design prioritizes:
 - Mobile responsiveness
 - Minimal visual clutter
 
+Task 4 — Frontend Review of Branda.com.ng
+
+Three things working well
+1. Strong value proposition and content hierarchy
+The homepage communicates Branda's positioning quickly through messaging around being an "all-in-one branding partner." The ecosystem concept is reinforced throughout the page, making it clear that Branda offers more than traditional printing. Branda Nigeria
+2. Strong social proof and credibility
+The site makes good use of client logos, testimonials, portfolio work and business statistics. The projects page, for example, highlights companies served and previous branding work, while the homepage includes testimonials and recognizable client brands. Branda Nigeria
+3. Broad content and service discovery
+There is a substantial amount of useful content across services, projects, FAQs and educational articles. The product catalogue also supports actual online ordering, including product options and pricing, rather than functioning only as a marketing website. Branda Nigeria
+Five areas that could be improved
+1. Navigation and information architecture
+Because Branda offers many different services, navigation can become overwhelming. The V2 experience should organize the ecosystem around clearer customer intents such as Print, Gifts, Digital, Studio and Workspace, while keeping the primary actions such as Shop, Get a Quote and Contact prominent.
+2. Mobile-first experience
+The amount of content on the homepage creates a long scrolling experience. A mobile-first redesign should prioritize the most important conversion paths and progressively reveal secondary information rather than presenting every section with equal visual weight.
+3. Stronger consistency across the ecosystem
+Branda has multiple service areas and content types. A shared design system with standardized cards, buttons, spacing, typography, filters, product/service layouts and CTA patterns would make the different parts of the platform feel like one product rather than separate experiences.
+4. Product discovery and ordering UX
+The catalogue contains a large number of products — some categories expose more than 100 products — so search, filtering, sorting and pagination become particularly important. Branda Nigeria
+For V2, I would make product/service discovery more task-oriented, with persistent filters, clear result counts, better sorting and a streamlined path from discovery → configuration → cart → checkout.
+5. Performance and accessibility
+The site is highly visual and contains many images and content sections. V2 should prioritize optimized responsive images, lazy loading for below-the-fold media, appropriate image dimensions, reduced client-side JavaScript and careful font loading.
+I would also run regular Lighthouse/PageSpeed audits and improve semantic HTML, keyboard navigation, focus states, form labels, image alternatives and color contrast.
+Responsiveness, UX and mobile
+The biggest opportunity is reducing complexity on smaller screens.
+Branda's breadth is a competitive advantage, but it can also create cognitive load. On mobile, I would prioritize:
+- A compact navigation system
+- Persistent/high-visibility search
+- Clear service categories
+- Sticky or easily accessible cart/action controls
+- Shorter content sections
+- Responsive image sizing
+- Touch-friendly controls
+- Simplified checkout
+- Clear loading, error and empty states
+
 ---
 
 ## Author
